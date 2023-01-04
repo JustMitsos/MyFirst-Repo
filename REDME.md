@@ -1,1 +1,2 @@
-#This is my first repository on Git Hub
+#GitHub
+This is my first repository on Git Hub
